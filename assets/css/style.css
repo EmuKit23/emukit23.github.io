@@ -1,0 +1,18 @@
+body, html {
+    background-color: #222529;
+}
+
+#header {
+    background-color: #222529;
+    color: white;
+}
+
+ion-icon {
+    vertical-align: middle;
+    margin-bottom: 2px;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: center;
+}
