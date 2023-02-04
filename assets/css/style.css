@@ -16,3 +16,7 @@ ion-icon {
     display: flex;
     justify-content: center;
 }
+
+.navbar-nav a {
+    margin-right: 10px;
+}
